@@ -1,4 +1,4 @@
-# 🎓 STUDENT GRADE TRACKER PRO
+# 🎓 STUDENT GRADE TRACKER 
 
 ![Java](https://shields.io)
 ![Terminal](https://shields.io)
